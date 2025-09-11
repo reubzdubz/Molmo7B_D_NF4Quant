@@ -12,6 +12,11 @@ Only the LLM portion was quantized, CLIP encoder remains as is
 
 approx. 12GB VRAM required
 
+Quantinzed weights are on HuggingFace:
+
+Molmo_7B_D_0924_NF4
+
 base model for more information:
 
 https://huggingface.co/allenai/Molmo-7B-D-0924
+
